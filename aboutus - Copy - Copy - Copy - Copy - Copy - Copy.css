@@ -1,0 +1,35 @@
+body{
+    background-image: url(img1.jpeg); /* Path to your image file */
+    background-size:cover;
+
+}
+logo{
+    padding: top 40%px;
+    height:-50%;
+    left: 200%;
+    width:-10%;
+}
+div.transbox {
+    margin: 8px;
+    padding:-0.3cm;
+    color:rgb(2, 27, 10);
+    opacity: 1;
+    font-weight:8000;
+    text-align: center;
+    font-weight: bold;
+    font-size:large;
+    font-weight: 900;
+    text-decoration: solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}  
+h3{
+    color:black;
+}
+
+
+  
+  
+  
+  
+
+
